@@ -1,6 +1,0 @@
-// Primeiros
-programa {
-  funcao inicio() {
-    escreva("Bom dia\n Tudo bem? \n Deus abençoe seu dia \n O importante é a rosa")
-  }
-}
