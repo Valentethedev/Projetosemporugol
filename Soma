@@ -8,9 +8,11 @@ programa {
     soma = num1 + num2 //operação de soma
     escreva("\n A soma é ", soma) //resultado soma
     mutiplicacao = num1 * num2 //operação de mutiplicação
-    escreva("\n A mutiplicação é ", mutiplicacao) //saida mutiplicacao
+    escreva("\n A mutiplicação é ", mutiplicacao) //resultado mutiplicação
+    subtracao = num1 - num2 //operação de subtração
+    escreva("\n A diferença é ", subtracao)  //resultado subtração
     divisao = num1/num2 //operação de divisao
-    escreva("\n O quociente é ", divisao)
+    escreva("\n O quociente é ", divisao)  //resultado divisão
 
   }
 }
@@ -18,4 +20,8 @@ programa {
 // Comandos novos
 // Escreva: Mostrar string no terminal
 // Leia: Leitura de variável
+// + = soma
+// - = subtração
+// * = mutiplicação
+// / = divisão
 /////////////////////////////////////////////////////////////////////////////////////
