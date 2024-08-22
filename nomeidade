@@ -1,0 +1,16 @@
+programa {
+  funcao inicio() {
+    cadeia nome //Declaração variável nome
+    inteiro idade //Declaração variável idade
+    escreva("Digite seu nome\n") // Usuário digita nome
+    leia(nome) //Programa captura nome
+    escreva("Digite sua idade\n") //Usuário digita idade
+    leia(idade) //Programa captura idade
+    escreva("\n Seu nome é ", nome)//Mostrar nome
+    escreva("e sua idade é ", idade) //Mostrar idade
+
+  }
+}
+////////////////////////////////////////// Anotações /////////////////////////////////////
+// Programa digite nome e idade
+/////////////////////////////////////////////////////////////////////////////////////
